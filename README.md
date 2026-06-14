@@ -50,5 +50,9 @@ How do sales and profits fluctuate throughout the year?
 
 Without a centralized reporting system, business leaders may struggle to make informed decisions quickly.
 
+6. ScreenShots
+
+![Sales Dashboard](Sales%20DashBoard%20Screen%20shot.png)
+
 
 
